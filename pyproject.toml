@@ -1,0 +1,9 @@
+[project]
+name = "earnovabot"
+version = "0.1.0"
+description = "A minimal Telegram bot for Earnova."
+requires-python = ">=3.10"
+dependencies = [
+    "python-telegram-bot>=22,<23",
+]
+
